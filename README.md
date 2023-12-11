@@ -11,6 +11,8 @@ Make sure you have the following dependencies installed:
 - PIL (Pillow)
 - Numpy
 - Keras
+- 
+Oh sorry, here if data's url: https://drive.google.com/drive/folders/1kp8KjYRfQ5JamJHfCFo73unSlti0iAob?usp=sharing
 
 
 ## How to Run
